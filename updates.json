@@ -3,7 +3,9 @@
         "api" : "https://api.vitapin.top/api/vapp/",
         "windows" : {
             "version" : "1.0.2",
-            "url" : "https://www.vitapin.top/download"
+            "url" : "https://www.vitapin.top/download",
+            "critical" : false,
+            "features" : []
         }
     }
 }
