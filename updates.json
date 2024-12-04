@@ -1,8 +1,9 @@
 {
     "vitapin" : {
+        "api" : "https://api.vitapin.top/api/vapp/",
         "windows" : {
             "version" : "1.0.2",
-            "url" : "https://www.vitapin.top/somepath"
+            "url" : "https://www.vitapin.top/download"
         }
     }
 }
