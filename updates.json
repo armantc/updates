@@ -2,7 +2,7 @@
     "vitapin" : {
         "api" : "https://api.vitapin.top/api/vapp/",
         "windows" : {
-            "version" : "2.0.0",
+            "version" : "1.2.0",
             "url" : "https://www.vitapin.top/api/download?name=VitapinSetup-v2.0.0.exe",
             "critical" : true,
             "features" : [
