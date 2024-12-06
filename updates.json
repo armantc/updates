@@ -2,13 +2,14 @@
     "vitapin" : {
         "api" : "https://api.vitapin.top/api/vapp/",
         "windows" : {
-            "version" : "1.0.0",
-            "url" : "https://www.vitapin.top/api/download?name=VitapinSetup-v2.0.0.exe",
+            "version" : "2.0.1",
+            "url" : "https://www.vitapin.top/api/download?name=VitapinSetup-v2.0.1.exe",
             "critical" : true,
             "features" : [
                 "بهبود رابط کاربری",
                 "بهینه سازی سیستم تانل",
-                "کاهش حجم و مصرف منابع"
+                "کاهش حجم و مصرف منابع",
+                "رفع خطاهای گزارش شده"
             ]
         }
     }
