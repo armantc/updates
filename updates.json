@@ -3,7 +3,7 @@
         "api" : "https://api.vitapin.top/api/vapp/",
         "windows" : {
             "version" : "2.0.1",
-            "url" : "https://www.vitapin.top/api/download?name=VitapinSetup-v2.0.1.exe",
+            "url" : "https://www.vitapin.top/api/download?name=Vitapin-2.0.1.msi",
             "critical" : true,
             "features" : [
                 "بهبود رابط کاربری",
