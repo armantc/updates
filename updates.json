@@ -2,10 +2,11 @@
     "vitapin" : {
         "api" : "https://api.vitapin.top/api/vapp/",
         "windows" : {
-            "version" : "2.0.1",
-            "url" : "https://www.vitapin.top/api/download?name=Vitapin-2.0.1.msi",
+            "version" : "3.5.0",
+            "url" : "https://www.vitapin.top/api/download?name=Vitapin-3.5.0.msi",
             "critical" : true,
             "features" : [
+                "اضافه شدن گراف پهنای باند",
                 "بهبود رابط کاربری",
                 "بهینه سازی سیستم تانل",
                 "کاهش حجم و مصرف منابع",
