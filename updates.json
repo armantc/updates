@@ -2,14 +2,12 @@
     "vitapin" : {
         "api" : "https://api.vitapin.top/api/vapp/",
         "windows" : {
-            "version" : "3.5.0",
-            "url" : "https://www.vitapin.top/api/download?name=Vitapin-3.5.0.msi",
+            "version" : "4.0.0",
+            "url" : "https://www.vitapin.top/api/download?name=Vitapin-4.0.0.msi",
             "critical" : true,
             "features" : [
-                "اضافه شدن گراف پهنای باند",
-                "بهبود رابط کاربری",
+                "اصلاح سیستم انتخاب موقعیت سرور",
                 "بهینه سازی سیستم تانل",
-                "کاهش حجم و مصرف منابع",
                 "رفع خطاهای گزارش شده"
             ]
         }
