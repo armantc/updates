@@ -2,24 +2,20 @@
     "vitapin" : {
         "api" : "https://api.vitapin.top/api/vapp/",
         "windows" : {
-            "version" : "4.2.2",
-            "url" : "https://www.vitapin.top/api/download?name=Vitapin-4.2.2.msi",
+            "version" : "4.3.0",
+            "url" : "https://www.vitapin.top/api/download?name=Vitapin-4.3.0.msi",
             "critical" : false,
             "features" : [
-                "بهبود رابط کاربری",
                 "بهینه سازی سیستم تانل",
-                "کاهش حجم",
                 "رفع خطاهای گزارش شده"
             ]
         },
         "android" : {
-            "version" : "4.2.2",
-            "url" : "https://www.vitapin.top/api/download?name=Vitapin-4.2.2.apk",
+            "version" : "4.3.0",
+            "url" : "https://www.vitapin.top/api/download?name=Vitapin-4.3.0.apk",
             "critical" : false,
             "features" : [
-                "بهبود رابط کاربری",
                 "بهینه سازی سیستم تانل",
-                "کاهش حجم",
                 "رفع خطاهای گزارش شده"
             ]
         }
