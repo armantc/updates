@@ -2,8 +2,8 @@
     "vitapin" : {
         "api" : "https://api.vitapin.top/api/vapp/",
         "windows" : {
-            "version" : "4.4.3",
-            "url" : "https://www.vitapin.top/api/download?name=Vitapin-4.4.3.msi",
+            "version" : "4.5.0",
+            "url" : "https://www.vitapin.top/api/download?name=windows-vitapin.msi",
             "critical" : false,
             "features" : [
                 "بهینه سازی سیستم تانل",
@@ -11,8 +11,8 @@
             ]
         },
         "android" : {
-            "version" : "4.4.3",
-            "url" : "https://www.vitapin.top/api/download?name=Vitapin-4.4.3.apk",
+            "version" : "4.5.0",
+            "url" : "https://www.vitapin.top/api/download?name=android-vitapin.apk",
             "critical" : false,
             "features" : [
                 "بهینه سازی سیستم تانل",
