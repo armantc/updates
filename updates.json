@@ -2,7 +2,7 @@
     "vitapin" : {
         "api" : "https://api.vitapin.top/api/vapp/",
         "windows" : {
-            "version" : "4.5.0",
+            "version" : "5.0.0",
             "url" : "https://www.vitapin.top/api/download?name=windows-vitapin.msi",
             "critical" : false,
             "features" : [
@@ -11,7 +11,7 @@
             ]
         },
         "android" : {
-            "version" : "4.5.0",
+            "version" : "5.0.0",
             "url" : "https://www.vitapin.top/api/download?name=android-vitapin.apk",
             "critical" : false,
             "features" : [
