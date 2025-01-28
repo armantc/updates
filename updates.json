@@ -2,11 +2,12 @@
     "vitapin" : {
         "api" : "https://api.vitapin.top/api/vapp/",
         "windows" : {
-            "version" : "5.1.0",
+            "version" : "5.2.0",
             "url" : "https://www.vitapin.top/api/download?name=windows-vitapin.msi",
-            "critical" : false,
+            "critical" : true,
             "features" : [
-                "بهینه سازی سیستم تانل",
+                "رفع متوقف شدن برنامه در برخی از سیستم ها",
+                "کاهش حجم برنامه",
                 "رفع خطاهای گزارش شده"
             ]
         },
