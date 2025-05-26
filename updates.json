@@ -10,14 +10,12 @@
             ]
         },
         "android" : {
-            "version" : "6.0.0",
+            "version" : "6.1.0",
             "url" : "https://www.vitapin.top/api/download?name=android-vitapin.apk",
             "critical" : false,
             "features" : [
                 "به روز رسانی هسته",
-                "تغییر سیستم ذخیره سازی",
-                "رفع خطاهای گذارش شده",
-                "بهینه سازی عملکرد"
+                "رفع خطاهای گذارش شده"
             ]
         }
     }
