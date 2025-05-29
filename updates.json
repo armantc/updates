@@ -10,7 +10,7 @@
             ]
         },
         "android" : {
-            "version" : "6.1.0",
+            "version" : "6.3.0",
             "url" : "https://www.vitapin.top/api/download?name=android-vitapin.apk",
             "critical" : false,
             "features" : [
