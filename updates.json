@@ -11,11 +11,10 @@
             ]
         },
         "android" : {
-            "version" : "6.5.1",
+            "version" : "6.5.2",
             "url" : "https://www.vitapin.top/api/download?name=android-vitapin.apk",
             "critical" : false,
             "features" : [
-                "بهبود محاسبه پینگ",
                 "رفع خطاهای گذارش شده"
             ]
         }
