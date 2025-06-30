@@ -2,11 +2,11 @@
     "vitapin" : {
         "api" : "https://api.vitapin.top/api/vapp/",
         "windows" : {
-            "version" : "6.5.2",
+            "version" : "6.6.0",
             "url" : "https://www.vitapin.top/api/download?name=windows-vitapin.msi",
             "critical" : false,
             "features" : [
-                "رفع خطاهای گذارش شده"
+                "به روز رسانی سیستم ارتباطی"
             ]
         },
         "android" : {
