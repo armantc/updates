@@ -4,7 +4,7 @@
         "windows" : {
             "version" : "6.6.0",
             "url" : "https://www.vitapin.top/api/download?name=windows-vitapin.msi",
-            "critical" : false,
+            "critical" : true,
             "features" : [
                 "به روز رسانی سیستم ارتباطی"
             ]
