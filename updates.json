@@ -13,14 +13,14 @@
             ]
         },
         "android" : {
-            "version" : "7.0.1",
+            "version" : "7.0.2",
             "url" : "https://www.vitapin.top/api/download?name=android-vitapin.apk",
             "critical" : false,
             "features" : [
+                "به روز رسانی عملکرد DNS",
                 "نمایش مدت اعتبار",
                 "نمایش حجم",
-                "پشتیبانی از IPv6",
-                "به روز رسانی هسته"
+                "پشتیبانی از IPv6"
             ]
         }
     }
